@@ -5,11 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GermanLetters", "GermanLetters\GermanLetters.csproj", "{153E2E39-83DA-457C-BEE0-0FE9CFCDF2E6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{583FEF4F-D920-4B86-8F58-AD2026FC581A}"
-	ProjectSection(SolutionItems) = preProject
-		..\TempLibTest\TempLibTest\Class1.cs = ..\TempLibTest\TempLibTest\Class1.cs
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
